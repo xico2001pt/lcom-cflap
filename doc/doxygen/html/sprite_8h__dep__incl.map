@@ -1,0 +1,10 @@
+<map id="sprite.h" name="sprite.h">
+<area shape="rect" id="node1" title=" " alt="" coords="360,5,425,32"/>
+<area shape="rect" id="node2" href="$video__gr_8h.html" title=" " alt="" coords="264,80,345,107"/>
+<area shape="rect" id="node7" href="$sprite_8c.html" title=" " alt="" coords="360,155,425,181"/>
+<area shape="rect" id="node8" href="$video__gr_8c.html" title=" " alt="" coords="449,155,531,181"/>
+<area shape="rect" id="node3" href="$button_8c.html" title=" " alt="" coords="181,155,250,181"/>
+<area shape="rect" id="node4" href="$cflap_8c.html" title=" " alt="" coords="274,155,335,181"/>
+<area shape="rect" id="node5" href="$fa_8c.html" title=" " alt="" coords="5,155,49,181"/>
+<area shape="rect" id="node6" href="$manager_8c.html" title=" " alt="" coords="74,155,157,181"/>
+</map>

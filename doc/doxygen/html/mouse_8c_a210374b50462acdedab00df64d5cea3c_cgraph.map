@@ -1,0 +1,5 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node2" href="$group__kbc.html#ga3e0dcbc6f00b8e485e307b5589dd2c3c" title=" " alt="" coords="132,5,239,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="287,5,377,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="rtc_int_handler" name="rtc_int_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,112,133"/>
+<area shape="rect" id="node2" href="$group__manager.html#ga48922a829e534250a5e19cbdae251238" title=" " alt="" coords="163,56,287,83"/>
+<area shape="rect" id="node6" href="$group__rtc.html#ga4b02e005d3b54c5760608f97c58950f9" title=" " alt="" coords="548,157,667,184"/>
+<area shape="rect" id="node8" href="$group__manager.html#gad28feb3967b03962258cc651238b899a" title=" " alt="" coords="160,157,291,184"/>
+<area shape="rect" id="node3" href="$group__palette.html#ga32f4df9cab67810ad5542c21fd4f2eed" title=" " alt="" coords="342,5,495,32"/>
+<area shape="rect" id="node5" href="$group__palette.html#ga23944400f1430e9ea9442845a04b1340" title=" " alt="" coords="339,56,499,83"/>
+<area shape="rect" id="node4" href="$group__palette.html#ga41703ba99ec29c6c88f2339bde62fed4" title=" " alt="" coords="547,31,668,57"/>
+<area shape="rect" id="node7" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="716,157,807,184"/>
+<area shape="rect" id="node9" href="$group__rtc.html#ga24a27b7f30374e240238f69b7731d0e4" title=" " alt="" coords="339,157,498,184"/>
+<area shape="rect" id="node10" href="$group__rtc.html#gae9ebcd3baa9b96b05b3ff2b338f1cae4" title=" " alt="" coords="339,208,498,235"/>
+</map>

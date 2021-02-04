@@ -1,0 +1,11 @@
+<map id="uart_int_handler" name="uart_int_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,43,120,69"/>
+<area shape="rect" id="node2" href="$group__uart.html#gad20df132334162445f286bb220c0125d" title="Read byte from Interrupt Identification Register." alt="" coords="187,5,274,32"/>
+<area shape="rect" id="node6" href="$group__manager.html#ga0be9a88a9a1811888cbdfd960671c912" title=" " alt="" coords="168,68,293,95"/>
+<area shape="rect" id="node3" href="$group__uart.html#gae649d035a00180fe28f0faf5c559754f" title="Read a UART register." alt="" coords="536,93,637,120"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="685,68,821,95"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="708,119,799,145"/>
+<area shape="rect" id="node7" href="$group__comm.html#gafda8c2a5d75a26226e359b95cd209964" title=" " alt="" coords="341,43,488,69"/>
+<area shape="rect" id="node8" href="$group__uart.html#gae1043b76ce45eaf74a56fe03e95cb1d4" title="Get uart Line Status." alt="" coords="359,93,471,120"/>
+<area shape="rect" id="node9" href="$group__uart.html#gab2c965352190b81ec91cd6828379c9ed" title="Read byte from Receiver Buffer Register." alt="" coords="361,144,469,171"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="uart_read_handler" name="uart_read_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,131,83"/>
+<area shape="rect" id="node2" href="$group__comm.html#gafda8c2a5d75a26226e359b95cd209964" title=" " alt="" coords="179,5,325,32"/>
+<area shape="rect" id="node3" href="$group__uart.html#gae1043b76ce45eaf74a56fe03e95cb1d4" title="Get uart Line Status." alt="" coords="196,56,308,83"/>
+<area shape="rect" id="node7" href="$group__uart.html#gab2c965352190b81ec91cd6828379c9ed" title="Read byte from Receiver Buffer Register." alt="" coords="198,107,306,133"/>
+<area shape="rect" id="node4" href="$group__uart.html#gae649d035a00180fe28f0faf5c559754f" title="Read a UART register." alt="" coords="373,81,475,108"/>
+<area shape="rect" id="node5" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="523,56,659,83"/>
+<area shape="rect" id="node6" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="545,107,636,133"/>
+</map>

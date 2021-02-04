@@ -1,0 +1,5 @@
+<map id="palette_load_default" name="palette_load_default">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$group__palette.html#ga41703ba99ec29c6c88f2339bde62fed4" title=" " alt="" coords="192,5,313,32"/>
+<area shape="rect" id="node3" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="361,5,435,32"/>
+</map>

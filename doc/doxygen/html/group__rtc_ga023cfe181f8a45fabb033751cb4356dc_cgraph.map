@@ -1,0 +1,6 @@
+<map id="rtc_init" name="rtc_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,67,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga4b02e005d3b54c5760608f97c58950f9" title=" " alt="" coords="115,5,233,32"/>
+<area shape="rect" id="node4" href="$group__rtc.html#ga04af70acf312f710c9d53029172a16f5" title=" " alt="" coords="118,56,230,83"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="281,5,372,32"/>
+</map>

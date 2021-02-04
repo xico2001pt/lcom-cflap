@@ -1,0 +1,8 @@
+<map id="uart_clean_rx_buffer" name="uart_clean_rx_buffer">
+<area shape="rect" id="node1" title="Read (and discard) all bytes in ReceiverBufferRegister." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#gae1043b76ce45eaf74a56fe03e95cb1d4" title="Get uart Line Status." alt="" coords="193,5,305,32"/>
+<area shape="rect" id="node6" href="$group__uart.html#gab2c965352190b81ec91cd6828379c9ed" title="Read byte from Receiver Buffer Register." alt="" coords="195,56,303,83"/>
+<area shape="rect" id="node3" href="$group__uart.html#gae649d035a00180fe28f0faf5c559754f" title="Read a UART register." alt="" coords="353,31,455,57"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="503,5,639,32"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="525,56,616,83"/>
+</map>

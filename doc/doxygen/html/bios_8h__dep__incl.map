@@ -1,0 +1,8 @@
+<map id="bios.h" name="bios.h">
+<area shape="rect" id="node1" title=" " alt="" coords="185,5,243,32"/>
+<area shape="rect" id="node2" href="$bios_8c.html" title=" " alt="" coords="5,80,63,107"/>
+<area shape="rect" id="node3" href="$cflap_8c.html" title=" " alt="" coords="87,80,149,107"/>
+<area shape="rect" id="node4" href="$manager_8c.html" title=" " alt="" coords="173,80,255,107"/>
+<area shape="rect" id="node5" href="$palette_8c.html" title=" " alt="" coords="279,80,351,107"/>
+<area shape="rect" id="node6" href="$video__gr_8c.html" title=" " alt="" coords="376,80,457,107"/>
+</map>

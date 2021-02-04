@@ -1,0 +1,5 @@
+<map id="bios_get_font_ptr" name="bios_get_font_ptr">
+<area shape="rect" id="node1" title="Return pointer containing a pixmap of the font used by the bios." alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node2" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="211,5,284,32"/>
+<area shape="rect" id="node3" href="$group__bios.html#ga843235add1faec83fc57fe4d29cac11c" title="Convert a bitmap to a pixelmap." alt="" coords="176,56,319,83"/>
+</map>

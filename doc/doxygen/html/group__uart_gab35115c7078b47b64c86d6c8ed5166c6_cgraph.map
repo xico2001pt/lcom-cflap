@@ -1,0 +1,6 @@
+<map id="uart_subscribe_int" name="uart_subscribe_int">
+<area shape="rect" id="node1" title="Subscribe uart interrupts." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga9f3e9b4c5cb39b4d0ff672294a8e838c" title="Enable interrupts on InterruptEnableRegister." alt="" coords="181,5,332,32"/>
+<area shape="rect" id="node3" href="$group__uart.html#ga9d486c0fa0bb857aced3d9a7936a0966" title="Write to a UART Register." alt="" coords="380,5,484,32"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="532,5,668,32"/>
+</map>

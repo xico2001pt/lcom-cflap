@@ -1,0 +1,14 @@
+<map id="draw_canvas" name="draw_canvas">
+<area shape="rect" id="node1" title=" " alt="" coords="5,51,104,77"/>
+<area shape="rect" id="node2" href="$group__fa.html#ga5a07081a55b7267f384d1969ebd1ec11" title=" " alt="" coords="152,109,220,136"/>
+<area shape="rect" id="node6" href="$group__video__gr.html#ga776739ef15b162fa7292201139146258" title=" " alt="" coords="977,101,1108,128"/>
+<area shape="rect" id="node3" href="$group__fa.html#ga784513b93ab62d2b0587ba44dfcf0867" title=" " alt="" coords="482,109,593,136"/>
+<area shape="rect" id="node9" href="$group__fa.html#gaea02eda70cad092e8c491d1b7290bd66" title=" " alt="" coords="268,185,403,212"/>
+<area shape="rect" id="node4" href="$group__video__gr.html#ga7d1cc82ed4956284a86a7c49d099fc93" title="Draw an arrow at the end of a line from (xi,yi) to (xf,yf)" alt="" coords="672,211,783,237"/>
+<area shape="rect" id="node5" href="$group__video__gr.html#ga117c2f5c3e21ed99631cfa07956390b9" title="Draw line from (xi,yi) to (xf,yf)" alt="" coords="831,211,929,237"/>
+<area shape="rect" id="node7" href="$group__video__gr.html#ga500066cf4c6f4939fe5ae1be6a5f4646" title="Draw a char." alt="" coords="676,109,779,136"/>
+<area shape="rect" id="node8" href="$group__video__gr.html#ga3160ac12b469bce32eb30d2f9e2be86a" title="Draw a XPM image." alt="" coords="676,160,779,187"/>
+<area shape="rect" id="node10" href="$group__fa.html#ga154b46e050c4100ba47ea1d2ed985ef7" title=" " alt="" coords="451,261,624,288"/>
+<area shape="rect" id="node11" href="$group__fa.html#ga3017971a76a94115fa02737bd0f991e0" title=" " alt="" coords="459,160,615,187"/>
+<area shape="rect" id="node12" href="$group__fa.html#ga765102639cf14fb1ab07a70dfe7d4d38" title=" " alt="" coords="473,43,601,85"/>
+</map>

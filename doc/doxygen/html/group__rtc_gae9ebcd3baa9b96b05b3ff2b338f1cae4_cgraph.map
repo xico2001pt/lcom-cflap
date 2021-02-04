@@ -1,0 +1,5 @@
+<map id="rtc_read_time_to_string" name="rtc_read_time_to_string">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga4b02e005d3b54c5760608f97c58950f9" title=" " alt="" coords="212,5,331,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="379,5,469,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="vbe_set_mode" name="vbe_set_mode">
+<area shape="rect" id="node1" title="Set VBE mode." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="160,5,233,32"/>
+</map>

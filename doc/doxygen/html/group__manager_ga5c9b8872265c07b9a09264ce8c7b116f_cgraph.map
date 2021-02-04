@@ -1,0 +1,39 @@
+<map id="init_devices" name="init_devices">
+<area shape="rect" id="node1" title=" " alt="" coords="5,385,96,412"/>
+<area shape="rect" id="node2" href="$group__cflap.html#ga8f6d4f0a60ad2c43188647c480d3b044" title=" " alt="" coords="144,5,304,32"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga4ec65f4055c9b9df116da942b896f24e" title=" " alt="" coords="173,56,275,83"/>
+<area shape="rect" id="node4" href="$group__queue.html#ga1b2411e4118201d0d094778871bffbfb" title=" " alt="" coords="174,107,274,133"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#gaa7a491d4d95eab5ca5326c4000ad67f8" title=" " alt="" coords="161,157,287,184"/>
+<area shape="rect" id="node6" href="$group__mouse.html#gab31f656136c4dfbbd57fb72edbfde1e9" title=" " alt="" coords="352,157,515,184"/>
+<area shape="rect" id="node9" href="$group__mouse.html#ga9da18257ff113b686bb826d154bfaa87" title=" " alt="" coords="151,563,297,589"/>
+<area shape="rect" id="node10" href="$group__palette.html#ga84efb6ec54539736ec030368ea4ee465" title=" " alt="" coords="181,613,267,640"/>
+<area shape="rect" id="node15" href="$group__rtc.html#ga023cfe181f8a45fabb033751cb4356dc" title=" " alt="" coords="193,259,255,285"/>
+<area shape="rect" id="node18" href="$group__rtc.html#gad0e226b65b98f755078623e31b9acdc9" title=" " alt="" coords="173,309,275,336"/>
+<area shape="rect" id="node19" href="$group__rtc.html#ga5171a9c0f54940fe60f7500896afcc86" title=" " alt="" coords="163,715,285,741"/>
+<area shape="rect" id="node20" href="$group__timer.html#gac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribes and enables Timer 0 interrupts." alt="" coords="157,765,291,792"/>
+<area shape="rect" id="node21" href="$group__uart.html#ga7d0126fa76181502d4acb38600912108" title="Read (and discard) all bytes in ReceiverBufferRegister." alt="" coords="154,360,294,387"/>
+<area shape="rect" id="node26" href="$group__uart.html#ga581c57760a2bad3db78246e5faa1f190" title="Enable fifo." alt="" coords="376,512,491,539"/>
+<area shape="rect" id="node28" href="$group__uart.html#gae30e6a33cde7eb5eb3367c4b93e96958" title="Set UART configuration." alt="" coords="189,411,259,437"/>
+<area shape="rect" id="node30" href="$group__uart.html#gab35115c7078b47b64c86d6c8ed5166c6" title="Subscribe uart interrupts." alt="" coords="160,512,288,539"/>
+<area shape="rect" id="node32" href="$video__gr_8c.html#aa6c1ff5024cd4d15e476bce487584daa" title=" " alt="" coords="403,765,463,792"/>
+<area shape="rect" id="node7" href="$group__kbc.html#gabf7e97dd9a8cfe7951fbd34b53a720e6" title=" " alt="" coords="563,132,708,159"/>
+<area shape="rect" id="node8" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="782,208,873,235"/>
+<area shape="rect" id="node11" href="$group__palette.html#ga2f8273c39db97e7c95c4320e9e279143" title=" " alt="" coords="364,664,503,691"/>
+<area shape="rect" id="node14" href="$group__palette.html#ga503253acfad5c6335206907bcc4f5f33" title=" " alt="" coords="578,613,693,640"/>
+<area shape="rect" id="node12" href="$group__palette.html#ga41703ba99ec29c6c88f2339bde62fed4" title=" " alt="" coords="575,664,696,691"/>
+<area shape="rect" id="node13" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="791,715,864,741"/>
+<area shape="rect" id="node16" href="$group__rtc.html#ga4b02e005d3b54c5760608f97c58950f9" title=" " alt="" coords="576,233,695,260"/>
+<area shape="rect" id="node17" href="$group__rtc.html#ga04af70acf312f710c9d53029172a16f5" title=" " alt="" coords="377,259,489,285"/>
+<area shape="rect" id="node22" href="$group__uart.html#gae1043b76ce45eaf74a56fe03e95cb1d4" title="Get uart Line Status." alt="" coords="377,309,489,336"/>
+<area shape="rect" id="node25" href="$group__uart.html#gab2c965352190b81ec91cd6828379c9ed" title="Read byte from Receiver Buffer Register." alt="" coords="379,360,487,387"/>
+<area shape="rect" id="node23" href="$group__uart.html#gae649d035a00180fe28f0faf5c559754f" title="Read a UART register." alt="" coords="585,360,686,387"/>
+<area shape="rect" id="node24" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="759,411,895,437"/>
+<area shape="rect" id="node27" href="$group__uart.html#ga9d486c0fa0bb857aced3d9a7936a0966" title="Write to a UART Register." alt="" coords="583,461,687,488"/>
+<area shape="rect" id="node29" href="$group__uart.html#ga4a415c45deb018b5ca6c3321d4c35ebb" title="Set UART bitrate." alt="" coords="377,411,489,437"/>
+<area shape="rect" id="node31" href="$group__uart.html#ga9f3e9b4c5cb39b4d0ff672294a8e838c" title="Enable interrupts on InterruptEnableRegister." alt="" coords="358,563,509,589"/>
+<area shape="rect" id="node33" href="$group__bios.html#ga8d7dafce00a28845211df8c47fe0169c" title="Return pointer containing a pixmap of the font used by the bios." alt="" coords="574,867,697,893"/>
+<area shape="rect" id="node35" href="$group__bios.html#ga600095f7445a742c3f37a3dd97fd8bc6" title="Map VRAM." alt="" coords="580,765,691,792"/>
+<area shape="rect" id="node36" href="$group__bios.html#ga0a0392aba4eef991e9cb4ee2155c719a" title="Get info of a given VBE mode." alt="" coords="568,715,703,741"/>
+<area shape="rect" id="node37" href="$group__bios.html#ga545507674d17fcbbf7d69dd3e6aca18f" title="Set VBE mode." alt="" coords="582,816,689,843"/>
+<area shape="rect" id="node34" href="$group__bios.html#ga843235add1faec83fc57fe4d29cac11c" title="Convert a bitmap to a pixelmap." alt="" coords="756,867,899,893"/>
+</map>

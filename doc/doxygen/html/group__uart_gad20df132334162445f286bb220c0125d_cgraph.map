@@ -1,0 +1,6 @@
+<map id="uart_get_iir" name="uart_get_iir">
+<area shape="rect" id="node1" title="Read byte from Interrupt Identification Register." alt="" coords="5,31,92,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#gae649d035a00180fe28f0faf5c559754f" title="Read a UART register." alt="" coords="140,31,241,57"/>
+<area shape="rect" id="node3" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="289,5,425,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="312,56,403,83"/>
+</map>

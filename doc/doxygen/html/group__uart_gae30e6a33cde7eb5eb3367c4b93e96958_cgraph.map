@@ -1,0 +1,8 @@
+<map id="uart_set" name="uart_set">
+<area shape="rect" id="node1" title="Set UART configuration." alt="" coords="5,31,75,57"/>
+<area shape="rect" id="node2" href="$group__uart.html#ga4a415c45deb018b5ca6c3321d4c35ebb" title="Set UART bitrate." alt="" coords="123,5,235,32"/>
+<area shape="rect" id="node6" href="$group__uart.html#ga9d486c0fa0bb857aced3d9a7936a0966" title="Write to a UART Register." alt="" coords="283,56,387,83"/>
+<area shape="rect" id="node3" href="$group__uart.html#gae649d035a00180fe28f0faf5c559754f" title="Read a UART register." alt="" coords="284,5,385,32"/>
+<area shape="rect" id="node4" href="$group__uart.html#ga18327093121e33e392b4c0b2426f5f73" title="Get UART base register address of a given COM line." alt="" coords="435,56,571,83"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="457,5,548,32"/>
+</map>

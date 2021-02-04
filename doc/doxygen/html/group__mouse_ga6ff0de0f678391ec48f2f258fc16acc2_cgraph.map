@@ -1,0 +1,6 @@
+<map id="mouse_set_streaming_mode" name="mouse_set_streaming_mode">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,195,57"/>
+<area shape="rect" id="node2" href="$group__kbc.html#gabf7e97dd9a8cfe7951fbd34b53a720e6" title=" " alt="" coords="243,5,388,32"/>
+<area shape="rect" id="node4" href="$group__kbc.html#ga3e0dcbc6f00b8e485e307b5589dd2c3c" title=" " alt="" coords="262,56,369,83"/>
+<area shape="rect" id="node3" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="436,31,527,57"/>
+</map>

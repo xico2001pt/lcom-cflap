@@ -1,0 +1,16 @@
+<map id="exit_devices" name="exit_devices">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,100,209"/>
+<area shape="rect" id="node2" href="$group__keyboard.html#ga5bdf6cfb570c375192b0d87913b65c57" title=" " alt="" coords="161,5,302,32"/>
+<area shape="rect" id="node3" href="$group__mouse.html#gaacdb4f83e9e64938ed351cf8016ad2bb" title=" " alt="" coords="148,56,315,83"/>
+<area shape="rect" id="node6" href="$group__mouse.html#ga685ad2706aca36d9869a30a19b9f446a" title=" " alt="" coords="152,107,311,133"/>
+<area shape="rect" id="node7" href="$group__rtc.html#gaf72af088ac252cdb5f10ab2f0f9434de" title=" " alt="" coords="187,157,276,184"/>
+<area shape="rect" id="node9" href="$group__rtc.html#gab8f17bf5280c908c8b199a90fefcc758" title=" " alt="" coords="164,208,299,235"/>
+<area shape="rect" id="node10" href="$group__timer.html#gafabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="157,259,306,285"/>
+<area shape="rect" id="node11" href="$group__uart.html#gaf1ff3ad84fc50b3da2bf271b569af0da" title="Unsubscribe uart interrupts." alt="" coords="160,309,303,336"/>
+<area shape="rect" id="node12" href="$group__video__gr.html#ga21665b79f7c1747f7be1a75fe761bae8" title="Reset video graphics to it&#39;s initial state and free all the memory used." alt="" coords="187,360,275,387"/>
+<area shape="rect" id="node4" href="$group__kbc.html#gabf7e97dd9a8cfe7951fbd34b53a720e6" title=" " alt="" coords="365,31,510,57"/>
+<area shape="rect" id="node5" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="560,56,651,83"/>
+<area shape="rect" id="node8" href="$group__rtc.html#ga04af70acf312f710c9d53029172a16f5" title=" " alt="" coords="381,157,493,184"/>
+<area shape="rect" id="node13" href="$group__bios.html#gac0480183a14a8ea84a5be7eb899d50a5" title="Set Display Start." alt="" coords="363,360,512,387"/>
+<area shape="rect" id="node14" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="569,360,642,387"/>
+</map>

@@ -1,0 +1,68 @@
+<map id="proj_main_loop" name="proj_main_loop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,309,115,336"/>
+<area shape="rect" id="node2" href="$group__cflap.html#ga43cb5454daae8f986b2d4373e86fd78a" title=" " alt="" coords="165,107,267,133"/>
+<area shape="rect" id="node7" href="$group__cflap.html#gae09b3cd7c0e66b732c8b67447e67123b" title=" " alt="" coords="167,309,265,336"/>
+<area shape="rect" id="node14" href="$group__manager.html#ga557df393e2f02b62e1847cfe6b1859a6" title=" " alt="" coords="163,1221,269,1248"/>
+<area shape="rect" id="node3" href="$group__button.html#ga7fdafd18e6b0729fb26b435a54a072e7" title=" " alt="" coords="340,107,440,133"/>
+<area shape="rect" id="node4" href="$group__input-box.html#ga367ee600d414cd692bc13e1ba914c1ea" title=" " alt="" coords="330,157,450,184"/>
+<area shape="rect" id="node5" href="$group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed" title=" " alt="" coords="338,5,442,32"/>
+<area shape="rect" id="node6" href="$group__fa.html#gac1e0d60bfc86c4a55420ab6c121ebee1" title=" " alt="" coords="347,56,433,83"/>
+<area shape="rect" id="node8" href="$group__button.html#gafa5e1d7b9ebc09c9c47a48979bae6f9e" title=" " alt="" coords="339,360,441,387"/>
+<area shape="rect" id="node9" href="$group__video__gr.html#ga9fe31f1412d70ac6833a9c5fe7c37c8b" title="Read an xpm_map_t." alt="" coords="544,360,644,387"/>
+<area shape="rect" id="node10" href="$group__input-box.html#ga8c4c349ff7a5f2138cf3d43cce3b827b" title=" " alt="" coords="329,208,451,235"/>
+<area shape="rect" id="node11" href="$sprite_8c.html#aa8db8d206cc2d7e92322dc49d2dbbba8" title=" " alt="" coords="341,259,439,285"/>
+<area shape="rect" id="node12" href="$group__fa.html#gae34fa8cbb6f90e10bfc38b758147b910" title=" " alt="" coords="350,411,430,437"/>
+<area shape="rect" id="node13" href="$group__fa.html#gac753e613ed491cb9b20fe86dd7ec4818" title=" " alt="" coords="751,436,819,463"/>
+<area shape="rect" id="node15" href="$group__cflap.html#gacb68b3355031136f68c159c2e8302d47" title=" " alt="" coords="339,613,441,640"/>
+<area shape="rect" id="node22" href="$group__manager.html#ga82bce51cf15336d501e111a1e13db562" title=" " alt="" coords="343,1019,437,1045"/>
+<area shape="rect" id="node31" href="$group__manager.html#ga5c9b8872265c07b9a09264ce8c7b116f" title=" " alt="" coords="345,1677,435,1704"/>
+<area shape="rect" id="node45" href="$group__uart.html#gae1043b76ce45eaf74a56fe03e95cb1d4" title="Get uart Line Status." alt="" coords="729,1272,841,1299"/>
+<area shape="rect" id="node51" href="$group__manager.html#gac58a0178545d0270b6c4b7170b74a26c" title=" " alt="" coords="317,2336,463,2363"/>
+<area shape="rect" id="node54" href="$group__manager.html#gaeeb82392bcbada700e9001a2454198a5" title=" " alt="" coords="325,2437,455,2464"/>
+<area shape="rect" id="node57" href="$group__queue.html#ga493ed5a09317452b91099333b9d0eebb" title=" " alt="" coords="340,1120,440,1147"/>
+<area shape="rect" id="node58" href="$group__queue.html#ga0b2d7f6c5962f270c598388ac503e5c1" title=" " alt="" coords="329,1171,451,1197"/>
+<area shape="rect" id="node59" href="$group__manager.html#ga240c25568e3236dae3685448f5abaa93" title=" " alt="" coords="337,2209,443,2236"/>
+<area shape="rect" id="node62" href="$group__manager.html#ga00aa52987d34c7c404712120c2c07a85" title=" " alt="" coords="326,1221,454,1248"/>
+<area shape="rect" id="node63" href="$group__manager.html#gadbe0933902e7fd3949e0d0f9db0045f5" title=" " alt="" coords="333,1272,447,1299"/>
+<area shape="rect" id="node66" href="$group__uart.html#ga13ee78f76d7c00587ef2ecf6293a0cbd" title="Write byte into Transmitter Holding Register." alt="" coords="335,1931,445,1957"/>
+<area shape="rect" id="node16" href="$group__cflap.html#ga2f6051e4cf593ca195c286afdd69bdba" title=" " alt="" coords="529,664,659,691"/>
+<area shape="rect" id="node17" href="$group__cflap.html#ga5614f96888aff10dabd9a2dd66747232" title=" " alt="" coords="519,715,669,741"/>
+<area shape="rect" id="node18" href="$group__cflap.html#ga9ae2435cdde21d13d4320089c5a3068c" title=" " alt="" coords="531,512,657,539"/>
+<area shape="rect" id="node19" href="$group__cflap.html#gae2a79213c6ea574b4cf31693b511fa7f" title=" " alt="" coords="525,563,663,589"/>
+<area shape="rect" id="node20" href="$group__cflap.html#ga92de61d77eb132debc6753bcb6ee2b12" title=" " alt="" coords="528,461,660,488"/>
+<area shape="rect" id="node21" href="$group__cflap.html#ga9a969abd7b6ed68c5f8a8119870d4afe" title=" " alt="" coords="544,613,644,640"/>
+<area shape="rect" id="node23" href="$group__keyboard.html#ga5bdf6cfb570c375192b0d87913b65c57" title=" " alt="" coords="523,968,665,995"/>
+<area shape="rect" id="node24" href="$group__mouse.html#gaacdb4f83e9e64938ed351cf8016ad2bb" title=" " alt="" coords="511,1019,677,1045"/>
+<area shape="rect" id="node25" href="$group__mouse.html#ga685ad2706aca36d9869a30a19b9f446a" title=" " alt="" coords="515,1069,673,1096"/>
+<area shape="rect" id="node26" href="$group__rtc.html#gaf72af088ac252cdb5f10ab2f0f9434de" title=" " alt="" coords="549,1120,639,1147"/>
+<area shape="rect" id="node27" href="$group__rtc.html#gab8f17bf5280c908c8b199a90fefcc758" title=" " alt="" coords="527,1171,661,1197"/>
+<area shape="rect" id="node28" href="$group__timer.html#gafabd21de449be154dd65d5fdb2d8045d" title="Unsubscribes Timer 0 interrupts." alt="" coords="519,816,669,843"/>
+<area shape="rect" id="node29" href="$group__uart.html#gaf1ff3ad84fc50b3da2bf271b569af0da" title="Unsubscribe uart interrupts." alt="" coords="523,867,665,893"/>
+<area shape="rect" id="node30" href="$group__video__gr.html#ga21665b79f7c1747f7be1a75fe761bae8" title="Reset video graphics to it&#39;s initial state and free all the memory used." alt="" coords="550,917,638,944"/>
+<area shape="rect" id="node32" href="$group__cflap.html#ga8f6d4f0a60ad2c43188647c480d3b044" title=" " alt="" coords="514,1880,674,1907"/>
+<area shape="rect" id="node33" href="$group__utils.html#ga4ec65f4055c9b9df116da942b896f24e" title=" " alt="" coords="543,1931,645,1957"/>
+<area shape="rect" id="node34" href="$group__queue.html#ga1b2411e4118201d0d094778871bffbfb" title=" " alt="" coords="544,1981,644,2008"/>
+<area shape="rect" id="node35" href="$group__keyboard.html#gaa7a491d4d95eab5ca5326c4000ad67f8" title=" " alt="" coords="531,1323,657,1349"/>
+<area shape="rect" id="node36" href="$group__mouse.html#gab31f656136c4dfbbd57fb72edbfde1e9" title=" " alt="" coords="513,1373,675,1400"/>
+<area shape="rect" id="node37" href="$group__mouse.html#ga9da18257ff113b686bb826d154bfaa87" title=" " alt="" coords="521,1424,667,1451"/>
+<area shape="rect" id="node38" href="$group__palette.html#ga84efb6ec54539736ec030368ea4ee465" title=" " alt="" coords="551,1475,637,1501"/>
+<area shape="rect" id="node39" href="$group__rtc.html#ga023cfe181f8a45fabb033751cb4356dc" title=" " alt="" coords="563,2083,625,2109"/>
+<area shape="rect" id="node41" href="$group__rtc.html#gad0e226b65b98f755078623e31b9acdc9" title=" " alt="" coords="543,1525,645,1552"/>
+<area shape="rect" id="node42" href="$group__rtc.html#ga5171a9c0f54940fe60f7500896afcc86" title=" " alt="" coords="533,1576,655,1603"/>
+<area shape="rect" id="node43" href="$group__timer.html#gac57a7e1140a7e00ad95ac5488d2a671b" title="Subscribes and enables Timer 0 interrupts." alt="" coords="527,1627,661,1653"/>
+<area shape="rect" id="node44" href="$group__uart.html#ga7d0126fa76181502d4acb38600912108" title="Read (and discard) all bytes in ReceiverBufferRegister." alt="" coords="524,1779,664,1805"/>
+<area shape="rect" id="node46" href="$group__uart.html#ga581c57760a2bad3db78246e5faa1f190" title="Enable fifo." alt="" coords="537,2032,651,2059"/>
+<area shape="rect" id="node48" href="$group__uart.html#gae30e6a33cde7eb5eb3367c4b93e96958" title="Set UART configuration." alt="" coords="559,1829,629,1856"/>
+<area shape="rect" id="node49" href="$group__uart.html#gab35115c7078b47b64c86d6c8ed5166c6" title="Subscribe uart interrupts." alt="" coords="530,1728,658,1755"/>
+<area shape="rect" id="node50" href="$video__gr_8c.html#aa6c1ff5024cd4d15e476bce487584daa" title=" " alt="" coords="564,1677,624,1704"/>
+<area shape="rect" id="node40" href="$group__rtc.html#ga4b02e005d3b54c5760608f97c58950f9" title=" " alt="" coords="725,2133,844,2160"/>
+<area shape="rect" id="node47" href="$group__uart.html#ga9d486c0fa0bb857aced3d9a7936a0966" title="Write to a UART Register." alt="" coords="733,2032,837,2059"/>
+<area shape="rect" id="node52" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title=" " alt="" coords="564,2336,624,2363"/>
+<area shape="rect" id="node53" href="$group__keyboard.html#ga9c8477c1231acc2cebb1fec959cceae0" title=" " alt="" coords="532,2387,656,2413"/>
+<area shape="rect" id="node55" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title=" " alt="" coords="555,2437,633,2464"/>
+<area shape="rect" id="node56" href="$group__mouse.html#gaa7643944ad19fdd5e5437f1ab524db89" title=" " alt="" coords="533,2488,655,2515"/>
+<area shape="rect" id="node60" href="$group__manager.html#ga48922a829e534250a5e19cbdae251238" title=" " alt="" coords="532,2285,656,2312"/>
+<area shape="rect" id="node61" href="$group__manager.html#gad28feb3967b03962258cc651238b899a" title=" " alt="" coords="529,2235,659,2261"/>
+<area shape="rect" id="node64" href="$group__uart.html#gad20df132334162445f286bb220c0125d" title="Read byte from Interrupt Identification Register." alt="" coords="551,1221,637,1248"/>
+<area shape="rect" id="node65" href="$group__manager.html#ga0be9a88a9a1811888cbdfd960671c912" title=" " alt="" coords="531,1272,657,1299"/>
+</map>

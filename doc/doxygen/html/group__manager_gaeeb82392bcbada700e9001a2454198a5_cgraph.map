@@ -1,0 +1,7 @@
+<map id="mouse_int_handler" name="mouse_int_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#a210374b50462acdedab00df64d5cea3c" title=" " alt="" coords="205,5,284,32"/>
+<area shape="rect" id="node5" href="$group__mouse.html#gaa7643944ad19fdd5e5437f1ab524db89" title=" " alt="" coords="184,56,305,83"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga3e0dcbc6f00b8e485e307b5589dd2c3c" title=" " alt="" coords="353,5,460,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="508,5,599,32"/>
+</map>

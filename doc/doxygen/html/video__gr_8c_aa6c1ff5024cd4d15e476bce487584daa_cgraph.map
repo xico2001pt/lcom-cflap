@@ -1,0 +1,9 @@
+<map id="vg_init" name="vg_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,65,108"/>
+<area shape="rect" id="node2" href="$group__bios.html#ga8d7dafce00a28845211df8c47fe0169c" title="Return pointer containing a pixmap of the font used by the bios." alt="" coords="119,5,242,32"/>
+<area shape="rect" id="node5" href="$group__bios.html#ga600095f7445a742c3f37a3dd97fd8bc6" title="Map VRAM." alt="" coords="125,56,236,83"/>
+<area shape="rect" id="node6" href="$group__bios.html#ga0a0392aba4eef991e9cb4ee2155c719a" title="Get info of a given VBE mode." alt="" coords="113,107,248,133"/>
+<area shape="rect" id="node7" href="$group__bios.html#ga545507674d17fcbbf7d69dd3e6aca18f" title="Set VBE mode." alt="" coords="127,157,234,184"/>
+<area shape="rect" id="node3" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="331,107,404,133"/>
+<area shape="rect" id="node4" href="$group__bios.html#ga843235add1faec83fc57fe4d29cac11c" title="Convert a bitmap to a pixelmap." alt="" coords="296,5,439,32"/>
+</map>

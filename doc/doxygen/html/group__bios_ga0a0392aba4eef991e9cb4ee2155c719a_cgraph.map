@@ -1,0 +1,4 @@
+<map id="vbe_mode_get_info" name="vbe_mode_get_info">
+<area shape="rect" id="node1" title="Get info of a given VBE mode." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="188,5,261,32"/>
+</map>

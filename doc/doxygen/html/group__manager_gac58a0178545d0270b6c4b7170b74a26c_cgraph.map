@@ -1,0 +1,7 @@
+<map id="keyboard_int_handler" name="keyboard_int_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,151,57"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#aea970a154161a35f6894898a092ed70a" title=" " alt="" coords="231,5,291,32"/>
+<area shape="rect" id="node5" href="$group__keyboard.html#ga9c8477c1231acc2cebb1fec959cceae0" title=" " alt="" coords="199,56,323,83"/>
+<area shape="rect" id="node3" href="$group__kbc.html#ga3e0dcbc6f00b8e485e307b5589dd2c3c" title=" " alt="" coords="371,5,477,32"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="525,5,616,32"/>
+</map>

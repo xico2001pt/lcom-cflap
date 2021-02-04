@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['data_83',['data',['../group__comm.html#ga436b4922b0890c551dbaf7a577d58dad',1,'comm_data::data()'],['../group__manager.html#gad4ca95dac72788cdd8507770af172cd0',1,'event_t::data()'],['../group__manager.html#ga4bc1c71d462b189ab606a7b158afb34f',1,'event_t::@2::@5::data()'],['../group__manager.html#ga8f5678bac0edc9453ced31c3c59423c9',1,'event_t::data()']]],
+  ['data_5fpacket_5fbytes_84',['DATA_PACKET_BYTES',['../group__i8042.html#gac681449c699e3312d7521de30b357c16',1,'i8042.h']]],
+  ['date_5fstr_85',['date_str',['../group__manager.html#gaa9f14d37481a04216da3c163dcc14f4d',1,'event_t::date_str()'],['../group__manager.html#gae8f3983e57d5b5d3a962d18273461cfc',1,'event_t::@2::@4::date_str()'],['../cflap_8c.html#a7adbb452e1e78af8c329cbad33f8ba81',1,'date_str():&#160;cflap.c'],['../manager_8c.html#a1cd583de64f7cbd89b52d698b978bbd7',1,'date_str():&#160;manager.c']]],
+  ['delay_5fus_86',['DELAY_US',['../group__i8042.html#ga1a522aa19bcb695a9df30032a893bee3',1,'i8042.h']]],
+  ['delete_5fbutton_87',['delete_button',['../group__button.html#ga7fdafd18e6b0729fb26b435a54a072e7',1,'delete_button(Button *button):&#160;button.c'],['../group__button.html#ga7fdafd18e6b0729fb26b435a54a072e7',1,'delete_button(Button *button):&#160;button.c']]],
+  ['delete_5finput_5fbox_88',['delete_input_box',['../group__input-box.html#ga367ee600d414cd692bc13e1ba914c1ea',1,'delete_input_box(InputBox *input):&#160;input-box.c'],['../group__input-box.html#ga367ee600d414cd692bc13e1ba914c1ea',1,'delete_input_box(InputBox *input):&#160;input-box.c']]],
+  ['delete_5fqueue_89',['delete_queue',['../group__queue.html#ga495ea9ac6e1314a863cbe565a06cc26b',1,'delete_queue(Queue *q):&#160;queue.c'],['../group__queue.html#ga495ea9ac6e1314a863cbe565a06cc26b',1,'delete_queue(Queue *q):&#160;queue.c']]],
+  ['delete_5fstate_90',['DELETE_STATE',['../group__comm.html#gga82d2f9de4bf28b45b9b179d838d94ebea5dc4907c4da97d4442227f0c39134ebc',1,'comm.h']]],
+  ['delete_5ftransition_91',['DELETE_TRANSITION',['../group__comm.html#gga82d2f9de4bf28b45b9b179d838d94ebea7c9583d07c132d0baae3c3e5572b642b',1,'comm.h']]],
+  ['delta_5fx_92',['delta_x',['../group__manager.html#ga9aa6146328d06c184f56833a43efc996',1,'event_t::delta_x()'],['../group__manager.html#ga7ab76b35392f9297feed0759d7cd28d7',1,'event_t::@2::@3::delta_x()']]],
+  ['delta_5fy_93',['delta_y',['../group__manager.html#ga18abf2b78ee521a2f47232907b5933c5',1,'event_t::delta_y()'],['../group__manager.html#gac06253891f44a987f0c695a5fa333137',1,'event_t::@2::@3::delta_y()']]],
+  ['destroy_5fsprite_94',['destroy_sprite',['../group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed',1,'destroy_sprite(Sprite *sp):&#160;sprite.c'],['../group__sprite.html#gaf16c6befaac9ffb673b9e3c798d542ed',1,'destroy_sprite(Sprite *sp):&#160;sprite.c']]],
+  ['device_5finfo_95',['device_info',['../structdevice__info.html',1,'']]],
+  ['disable_5fdata_5freporting_96',['DISABLE_DATA_REPORTING',['../group__i8042.html#ga8e51dfaa390f8cfb4b1b286fb3b22aff',1,'i8042.h']]],
+  ['disable_5fmouse_97',['DISABLE_MOUSE',['../group__i8042.html#ga12d3b0abea66d191d47fe6860e58865e',1,'i8042.h']]],
+  ['div_5flatch_5flsb_5freg_98',['DIV_LATCH_LSB_REG',['../group__uart.html#ga2e81c6ed81a5e7919df687e64eca2ef4',1,'uart.h']]],
+  ['div_5flatch_5fmsb_5freg_99',['DIV_LATCH_MSB_REG',['../group__uart.html#ga1c7e7b194fd3ef38edf0cf9f786bed83',1,'uart.h']]],
+  ['draw_100',['DRAW',['../group__cflap.html#ggac6bfe0c7e77d2d54ce83b39aba72fbeba61f3c57b6943c85413975507aede78cd',1,'cflap.h']]],
+  ['draw_5fbutton_101',['draw_button',['../group__button.html#gabc46c167e9c6aa1979ae1ee5e89e69b2',1,'draw_button(Button *button, bool hover, bool selected):&#160;button.c'],['../group__button.html#gabc46c167e9c6aa1979ae1ee5e89e69b2',1,'draw_button(Button *button, bool hover, bool selected):&#160;button.c']]],
+  ['draw_5fbutton_5fwith_5fcolor_102',['draw_button_with_color',['../group__button.html#ga05f0c0771619ef6631366441d13ca564',1,'draw_button_with_color(Button *button, uint8_t color):&#160;button.c'],['../group__button.html#ga05f0c0771619ef6631366441d13ca564',1,'draw_button_with_color(Button *button, uint8_t color):&#160;button.c']]],
+  ['draw_5fcanvas_103',['draw_canvas',['../group__cflap.html#ga83148a10a5fe524665a982da7b2a9680',1,'draw_canvas():&#160;cflap.c'],['../group__cflap.html#ga83148a10a5fe524665a982da7b2a9680',1,'draw_canvas():&#160;cflap.c']]],
+  ['draw_5fdatetime_104',['draw_datetime',['../group__cflap.html#ga1baa66727bf0d43ba36b57579e5454c0',1,'draw_datetime():&#160;cflap.c'],['../group__cflap.html#ga1baa66727bf0d43ba36b57579e5454c0',1,'draw_datetime():&#160;cflap.c']]],
+  ['draw_5fheader_105',['draw_header',['../group__cflap.html#ga54d5ea72de7dd571da55ceb56ef06757',1,'draw_header():&#160;cflap.c'],['../group__cflap.html#ga54d5ea72de7dd571da55ceb56ef06757',1,'draw_header():&#160;cflap.c']]],
+  ['draw_5finputbox_106',['draw_inputbox',['../group__cflap.html#gaf18beb9b2720d3ae4cf5a2b0640f40d6',1,'draw_inputbox():&#160;cflap.c'],['../group__cflap.html#gaf18beb9b2720d3ae4cf5a2b0640f40d6',1,'draw_inputbox():&#160;cflap.c']]]
+];

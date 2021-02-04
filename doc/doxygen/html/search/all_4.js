@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['enable_5fdata_5freporting_107',['ENABLE_DATA_REPORTING',['../group__i8042.html#ga9c64a38cca5c7aabe0ab2d8c5e21e723',1,'i8042.h']]],
+  ['enable_5fmouse_108',['ENABLE_MOUSE',['../group__i8042.html#ga618bdf461c25d552e654d6b899de2d37',1,'i8042.h']]],
+  ['end_5fcomm_109',['END_COMM',['../group__comm.html#gga82d2f9de4bf28b45b9b179d838d94ebea64b0e8f882f5ed365e2e1352edc304c6',1,'comm.h']]],
+  ['enter_110',['ENTER',['../group__keyboard.html#ggaf73903edfc3728d3b9b4d7e50dfb15aea951ab68bb8f7daafb78951107080904e',1,'keyboard.h']]],
+  ['enter_5fmakecode_111',['ENTER_MAKECODE',['../group__i8042.html#ga7867fe76c722f5f4353e5da405fa9703',1,'i8042.h']]],
+  ['error_112',['ERROR',['../group__i8042.html#ga8fe83ac76edc595f6b98cd4a4127aed5',1,'i8042.h']]],
+  ['error_5fevent_113',['ERROR_EVENT',['../group__comm.html#gga82d2f9de4bf28b45b9b179d838d94ebeaedea89396192e8c7ed6be34871e33e55',1,'comm.h']]],
+  ['esc_114',['ESC',['../group__keyboard.html#ggaf73903edfc3728d3b9b4d7e50dfb15aeaf5297152557c7da396243000ca240e89',1,'keyboard.h']]],
+  ['esc_5fbreakcode_115',['ESC_BREAKCODE',['../group__i8042.html#ga69b1626cd295acf4cf3f8e284205b9db',1,'ESC_BREAKCODE():&#160;i8042.h'],['../group__i8042.html#ga69b1626cd295acf4cf3f8e284205b9db',1,'ESC_BREAKCODE():&#160;i8042.h']]],
+  ['esc_5fmakecode_116',['ESC_MAKECODE',['../group__i8042.html#ga73bb6599b4157bc326c96d6b117294b8',1,'i8042.h']]],
+  ['ev_117',['ev',['../group__manager.html#ga7ca08e77729cc8e0846145586954e84b',1,'event_t::ev()'],['../group__manager.html#ga6b51f952240d08eec264d26ffa11a046',1,'event_t::@2::@5::ev()']]],
+  ['even_5fparity_118',['even_parity',['../group__uart.html#ggaef0010d952178bd0d851bcf3b63daecaaa813d89d21f58f6d9ebc2a9f816afa75',1,'uart.h']]],
+  ['event_5fhandler_119',['event_handler',['../group__cflap.html#gacb68b3355031136f68c159c2e8302d47',1,'event_handler(event_t events[], size_t n_events):&#160;cflap.c'],['../group__cflap.html#gacb68b3355031136f68c159c2e8302d47',1,'event_handler(event_t events[], size_t n_events):&#160;cflap.c']]],
+  ['event_5ft_120',['event_t',['../structevent__t.html',1,'']]],
+  ['event_5ftype_121',['event_type',['../group__manager.html#ga430b444c74dd3fd1472a31714ec5f1ce',1,'manager.h']]],
+  ['events_122',['events',['../manager_8c.html#ac42543b1d14ef75a61a2a37d0526093b',1,'manager.c']]],
+  ['exit_123',['EXIT',['../group__cflap.html#gga9e392bafcec70293abf565825843f9a0a7a10b5d68d31711288e1fe0fa17dbf4f',1,'cflap.h']]],
+  ['exit_5fcflap_124',['exit_cflap',['../cflap_8c.html#a6c07e1a7ad4632a47d0700fc82e8cfed',1,'cflap.c']]],
+  ['exit_5fcolor_125',['EXIT_COLOR',['../group__palette.html#ga75aaea2540ee672a12c2e6ad02f0dca2',1,'palette.h']]],
+  ['exit_5fdevices_126',['exit_devices',['../group__manager.html#ga82bce51cf15336d501e111a1e13db562',1,'exit_devices():&#160;manager.c'],['../group__manager.html#ga82bce51cf15336d501e111a1e13db562',1,'exit_devices():&#160;manager.c']]],
+  ['exit_5fhover_5fcolor_127',['EXIT_HOVER_COLOR',['../group__palette.html#ga80945447c01aa4a3c6f04898c4ad3ff2',1,'palette.h']]],
+  ['exit_5fxpm_128',['exit_xpm',['../button-xpm_8h.html#a3a10826a7396de3861f553268a76f607',1,'button-xpm.h']]]
+];

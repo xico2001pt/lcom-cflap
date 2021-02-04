@@ -1,0 +1,5 @@
+<map id="vg_cleanup" name="vg_cleanup">
+<area shape="rect" id="node1" title="Reset video graphics to it&#39;s initial state and free all the memory used." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node2" href="$group__bios.html#gac0480183a14a8ea84a5be7eb899d50a5" title="Set Display Start." alt="" coords="141,5,291,32"/>
+<area shape="rect" id="node3" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="339,5,412,32"/>
+</map>

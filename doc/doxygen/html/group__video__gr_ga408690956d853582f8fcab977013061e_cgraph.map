@@ -1,0 +1,5 @@
+<map id="vg_show_buffer" name="vg_show_buffer">
+<area shape="rect" id="node1" title="Do a page flip, showing buffer content." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$group__bios.html#gac0480183a14a8ea84a5be7eb899d50a5" title="Set Display Start." alt="" coords="168,5,317,32"/>
+<area shape="rect" id="node3" href="$group__bios.html#ga71a12bfdcfff727198c0cdb320459a7a" title="Make a sys_int86 call and check for errors." alt="" coords="365,5,439,32"/>
+</map>

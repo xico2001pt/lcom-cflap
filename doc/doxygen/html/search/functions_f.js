@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['timer0_5fint_5fhandler_786',['timer0_int_handler',['../group__manager.html#ga00aa52987d34c7c404712120c2c07a85',1,'timer0_int_handler():&#160;manager.c'],['../group__manager.html#ga00aa52987d34c7c404712120c2c07a85',1,'timer0_int_handler():&#160;manager.c']]],
+  ['timer_5fdisplay_5fconf_787',['timer_display_conf',['../group__timer.html#ga140d8f092c0913cabdca949c4a1cc650',1,'timer_display_conf(uint8_t timer, uint8_t st, enum timer_status_field field):&#160;timer.c'],['../group__timer.html#ga140d8f092c0913cabdca949c4a1cc650',1,'timer_display_conf(uint8_t timer, uint8_t st, enum timer_status_field field):&#160;timer.c']]],
+  ['timer_5fevent_5fhandler_788',['timer_event_handler',['../group__cflap.html#gae2a79213c6ea574b4cf31693b511fa7f',1,'timer_event_handler(event_t *event):&#160;cflap.c'],['../group__cflap.html#gae2a79213c6ea574b4cf31693b511fa7f',1,'timer_event_handler(event_t *event):&#160;cflap.c']]],
+  ['timer_5fget_5fconf_789',['timer_get_conf',['../group__timer.html#ga703c60b40c8c49607d6ecb6fef82d27a',1,'timer_get_conf(uint8_t timer, uint8_t *st):&#160;timer.c'],['../group__timer.html#ga703c60b40c8c49607d6ecb6fef82d27a',1,'timer_get_conf(uint8_t timer, uint8_t *st):&#160;timer.c']]],
+  ['timer_5fint_5fhandler_790',['timer_int_handler',['../group__timer.html#ga91a2072306c68353712a6b771287dc2c',1,'timer_int_handler():&#160;timer.c'],['../group__timer.html#ga91a2072306c68353712a6b771287dc2c',1,'timer_int_handler():&#160;timer.c']]],
+  ['timer_5fprint_5fconfig_791',['timer_print_config',['../group__timer.html#gad3902e029b27c80982873394c0290496',1,'timer.h']]],
+  ['timer_5fprint_5felapsed_5ftime_792',['timer_print_elapsed_time',['../group__timer.html#ga43b221cba0c39b32f89688dcfee5aefa',1,'timer.h']]],
+  ['timer_5fset_5ffrequency_793',['timer_set_frequency',['../group__timer.html#gaf2c04fa8e97ffa748fd3f612886a92a7',1,'timer_set_frequency(uint8_t timer, uint32_t freq):&#160;timer.c'],['../group__timer.html#gaf2c04fa8e97ffa748fd3f612886a92a7',1,'timer_set_frequency(uint8_t timer, uint32_t freq):&#160;timer.c']]],
+  ['timer_5fsubscribe_5fint_794',['timer_subscribe_int',['../group__timer.html#gac57a7e1140a7e00ad95ac5488d2a671b',1,'timer_subscribe_int(uint8_t *bit_no):&#160;timer.c'],['../group__timer.html#gac57a7e1140a7e00ad95ac5488d2a671b',1,'timer_subscribe_int(uint8_t *bit_no):&#160;timer.c']]],
+  ['timer_5funsubscribe_5fint_795',['timer_unsubscribe_int',['../group__timer.html#gafabd21de449be154dd65d5fdb2d8045d',1,'timer_unsubscribe_int():&#160;timer.c'],['../group__timer.html#gafabd21de449be154dd65d5fdb2d8045d',1,'timer_unsubscribe_int():&#160;timer.c']]],
+  ['translocate_5fsprite_796',['translocate_sprite',['../group__sprite.html#gab140227dc145a48a025e393b7e4627e3',1,'translocate_sprite(Sprite *sp, int16_t x_disp, int16_t y_disp):&#160;sprite.c'],['../group__sprite.html#gab140227dc145a48a025e393b7e4627e3',1,'translocate_sprite(Sprite *sp, int16_t x_disp, int16_t y_disp):&#160;sprite.c']]]
+];

@@ -1,0 +1,11 @@
+<map id="draw_header" name="draw_header">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node2" href="$group__utils.html#ga0151b5f4e78d483c7ca800dc36de31ed" title=" " alt="" coords="149,5,320,32"/>
+<area shape="rect" id="node3" href="$group__button.html#gabc46c167e9c6aa1979ae1ee5e89e69b2" title=" " alt="" coords="188,56,281,83"/>
+<area shape="rect" id="node7" href="$group__video__gr.html#ga776739ef15b162fa7292201139146258" title=" " alt="" coords="575,107,705,133"/>
+<area shape="rect" id="node8" href="$group__cflap.html#ga1baa66727bf0d43ba36b57579e5454c0" title=" " alt="" coords="181,157,288,184"/>
+<area shape="rect" id="node4" href="$group__button.html#ga05f0c0771619ef6631366441d13ca564" title=" " alt="" coords="368,56,527,83"/>
+<area shape="rect" id="node5" href="$group__video__gr.html#ga3160ac12b469bce32eb30d2f9e2be86a" title="Draw a XPM image." alt="" coords="589,56,691,83"/>
+<area shape="rect" id="node6" href="$group__video__gr.html#gaad459ebd5b361fed85fb89caebb18ca1" title=" " alt="" coords="753,107,849,133"/>
+<area shape="rect" id="node9" href="$group__video__gr.html#ga500066cf4c6f4939fe5ae1be6a5f4646" title="Draw a char." alt="" coords="396,157,499,184"/>
+</map>

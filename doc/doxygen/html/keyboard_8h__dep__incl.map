@@ -1,0 +1,11 @@
+<map id="keyboard.h" name="keyboard.h">
+<area shape="rect" id="node1" title=" " alt="" coords="272,5,359,32"/>
+<area shape="rect" id="node2" href="$manager_8h.html" title=" " alt="" coords="274,80,357,107"/>
+<area shape="rect" id="node4" href="$cflap_8c.html" title=" " alt="" coords="179,229,241,256"/>
+<area shape="rect" id="node5" href="$manager_8c.html" title=" " alt="" coords="377,229,459,256"/>
+<area shape="rect" id="node7" href="$input-box_8h.html" title=" " alt="" coords="56,80,143,107"/>
+<area shape="rect" id="node9" href="$keyboard_8c.html" title=" " alt="" coords="507,80,593,107"/>
+<area shape="rect" id="node3" href="$cflap_8h.html" title=" " alt="" coords="319,155,381,181"/>
+<area shape="rect" id="node6" href="$proj_8c.html" title=" " alt="" coords="275,229,329,256"/>
+<area shape="rect" id="node8" href="$input-box_8c.html" title=" " alt="" coords="5,155,92,181"/>
+</map>

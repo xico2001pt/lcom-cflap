@@ -1,0 +1,7 @@
+<map id="update_int_handler" name="update_int_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$group__rtc.html#ga24a27b7f30374e240238f69b7731d0e4" title=" " alt="" coords="184,5,343,32"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gae9ebcd3baa9b96b05b3ff2b338f1cae4" title=" " alt="" coords="184,56,343,83"/>
+<area shape="rect" id="node3" href="$group__rtc.html#ga4b02e005d3b54c5760608f97c58950f9" title=" " alt="" coords="391,31,509,57"/>
+<area shape="rect" id="node4" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Invokes sys_inb() system call but reads the value into a uint8_t variable." alt="" coords="557,31,648,57"/>
+</map>
